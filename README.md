@@ -1,1 +1,1 @@
-# Food-Vision-Big-
+This repository contains a project called Food Vision, which utilizes state-of-the-art technologies like TensorFlow, transfer learning, and the EfficientNetB0 model for food image classification. The goal of this project is to build a robust deep learning model that can accurately identify various types of food from images.
